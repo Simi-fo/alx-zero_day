@@ -1,2 +1,2 @@
 My first readme
-God is amazing
+God is amazing to me
